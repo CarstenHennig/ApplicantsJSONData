@@ -1,0 +1,35 @@
+{
+    "name": "Carsten",
+    "familyname": "Hennig",
+    "occupation": "Digital Evangelist",
+    "location": "Hamburg, Germany",
+    "email": "carsten.hennig@gmail.com",
+    "landline": "+49 (0)40 414311692",
+    "mobile": "+49 (0)176 50326719",
+    "url": "www.about.me/carsten.hennig",
+    "first_day": "01. August 2023",
+    "salary_bid": "48.000 € p.a.",
+    "fulltime": true,
+    "parttime": false,
+    "references": [
+        "www.holedo.com - Wordpress: 360-Grad-Kommunikation, Mitentscheider bei Software Architektur",
+        "www.kiteguide.com - Frontend Dev in TS/React zum Go Live",
+        "Interface Management - Frontend Dev in JS/Svelte"
+    ],
+    "comments": [
+        "Full Stack Developer seit 2020",
+        "Digital Evangelist seit 2016",
+        "IT-Projektmanager seit 1999",
+        "Web Development seit 1998",
+        "Fachmedien seit 1997",
+        "Journalist seit 1991"
+    ],
+    "profile_description": "Von Content zu Coding - 25 Jahre Karriere als Chefredakteur und TV-Anchorman in der internationalen Hotellerie, dann (endlich) der Sprung über die Firewall ins Coding. Ausbildung am DCI Digital Career Institute zum Web Developer, zertifiziert als MERN Full Stack Developer, erste Meriten bei einer Webagentur (Projektleitung WordPress-Entwicklung mit PHP) und im Software Engineering bei einem auf Middleware spezialisierten Beratungsunternehmen (SAP-Umfeld).",
+    "comments2": [
+        "Weiter vertiefte Kenntnisse in Software Development",
+        "Weiter Deep Dive in JS",
+        "Neu eingearbeitet in Framework Svelte",
+        "Einarbeitung in Go",
+        "Tiefgehende Einarbeitung in SQL und Python im Rahmen meines Studiums zum Data Analyst (nebenberuflich am Turing College)"
+    ]
+}

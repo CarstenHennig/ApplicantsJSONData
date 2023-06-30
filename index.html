@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Display JSON Data in HTML</title>
+    <style>
+      .card {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>JSON Data</h1>
+    <div id="data"></div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        fetch("data.json")
+          .then((response) => response.json())
+          .then((jsonObject) => {
+            const dataDiv = document.getElementById("data");
+            let html = "";
+
+            for (const key in jsonObject) {
+              const value = jsonObject[key];
+              html += `<div class="card"><strong>${key}:</strong> ${value}</div>`;
+            }
+
+            dataDiv.innerHTML = html;
+          })
+          .catch((error) => console.error(error));
+      });
+    </script>
+  </body>
+</html>
