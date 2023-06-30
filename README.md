@@ -12,9 +12,9 @@ Zum Start dieser kleinen Anwendung empfiehlt sich folgende Vorgehensweise:
 
 ### Hintergrund der Idee
 Zur Standadisierung werden im Bewerberformular sog. Muss- und Kann-Felder definiert.
-Zudem werden Upload-Inputs für Bewerberfoto, CV, Arbeitszeugnisse (mehrere), Anschreiben, sonstige Dateien (z.B. Zertifikate) freigeschaltet. ==*Speicherung dieser Uploads ist zu klären*==
+Zudem werden Upload-Inputs für Bewerberfoto, CV, Arbeitszeugnisse (mehrere), Anschreiben, sonstige Dateien (z.B. Zertifikate) freigeschaltet. ==Speicherung dieser Uploads ist zu klären==
 
 ### Weitere Inmprovements
 Im Benchmark zu zeitgemäßen Bewerbertools wie z.B. von *Personio* sind folgende Funktionen erwägenswert:
 - Bewerben mit Profilen von LinkedIn, Xing und anderen Business Networks
-- Login-Bereich zum Status-Abruf der aktuellen Bewerbungen ==*sehr komplex in der Eigenentwicklung*==
+- Login-Bereich zum Status-Abruf der aktuellen Bewerbungen ==Sehr komplex in der Eigenentwicklung==
